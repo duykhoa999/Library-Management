@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/admin/reader/body.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/admin/reader/header.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/home/index.jsp=UTF-8
+encoding//src/admin/controller/AdminController.java=UTF-8
+encoding//src/admin/controller/BookController.java=UTF-8
+encoding//src/admin/controller/ReaderController.java=UTF-8
+encoding//src/admin/controller/StaffController.java=UTF-8
+encoding//src/home/controller/HomeController.java=UTF-8
+encoding//src/library/entity/Staff.java=UTF-8
+encoding//src/service/controller/ServiceController.java=UTF-8
